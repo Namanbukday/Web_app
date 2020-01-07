@@ -33,6 +33,6 @@ app.post("/register", function(req, res){
     });
 });
 
-app.listen(8080, function(){
+app.listen(3000, function(){
     console.log("Server running on 8080!");
 });
